@@ -19,7 +19,7 @@
 | <a href='https://github.com/ug-kim'><img src='https://avatars.githubusercontent.com/u/38632805?v=4' width='200px'/></a> | <a href='https://github.com/MaiHon'><img src='https://avatars.githubusercontent.com/u/41847456?v=4' width='200px'/></a> | <a href='https://github.com/vim-hjk'><img src='https://avatars.githubusercontent.com/u/77153072?v=4' width='200px'/></a> | <a href='https://github.com/songbae'><img src='https://avatars.githubusercontent.com/u/65913073?v=4' width='200px'/></a> | <a href='https://github.com/seong0905'><img src='https://avatars.githubusercontent.com/u/70629496?v=4' width='200px'/></a> | <a href='https://github.com/Hyerin-oh'><img src='https://avatars.githubusercontent.com/u/68813518?s=400&u=e5300247dc2b04f5cf57265a6f2e1cc0987e6d08&v=4' width='200px'/></a> 
 
 <br></br>
-## 🎖 최종 결과 (총 21개팀) <a name = 'Result'></a>
+## 🎖 최종 결과 (총 21팀) <a name = 'Result'></a>
 - Semantic Segmentaion :
     - Final LB : 0.7043 (1등)
     - Public LB :  0.7205 (1등)
