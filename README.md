@@ -26,7 +26,7 @@
     - [1등 발표자료](https://github.com/bcaitech1/p3-ims-obd-multihead_ensemble/blob/master/presentation/Pstage3_solution.pdf) 
 - Object Detection :
     - Final LB : 0.5014 (2위)
-    - Public LB :  0.6068 (3)
+    - Public LB :  0.6068 (3위)
 
 <br></br>
 ## ♻ 대회 개요 <a name = 'Overview'></a>
