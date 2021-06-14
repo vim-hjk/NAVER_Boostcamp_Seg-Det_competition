@@ -21,12 +21,12 @@
 <br></br>
 ## 🎖 최종 결과 (총 21팀) <a name = 'Result'></a>
 - Semantic Segmentaion :
-    - Final LB : 0.7043 (1등)
-    - Public LB :  0.7205 (1등)
+    - Final LB : 0.7043 (1위)
+    - Public LB :  0.7205 (1위)
     - [1등 발표자료](https://github.com/bcaitech1/p3-ims-obd-multihead_ensemble/blob/master/presentation/Pstage3_solution.pdf) 
 - Object Detection :
-    - Final LB : 0.5014 (2등)
-    - Public LB :  0.6068 (3등)
+    - Final LB : 0.5014 (2위)
+    - Public LB :  0.6068 (3)
 
 <br></br>
 ## ♻ 대회 개요 <a name = 'Overview'></a>
